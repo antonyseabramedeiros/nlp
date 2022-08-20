@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-12-19">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="weight" type="long" />
+    </attributes>
+    <nodes>
+      <node id="MD_sodium" label="MD_sodium">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="226088" />
+        </attvalues>
+      </node>
+      <node id="MD_corticosteroids" label="MD_corticosteroids">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="154593" />
+        </attvalues>
+      </node>
+      <node id="MD_acids" label="MD_acids">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="255823" />
+        </attvalues>
+      </node>
+      <node id="MC_animal models" label="MC_animal models">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="2213" />
+        </attvalues>
+      </node>
+      <node id="PA_streptococcus" label="PA_streptococcus">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="179848" />
+        </attvalues>
+      </node>
+      <node id="PA_coronavirus" label="PA_coronavirus">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="415691" />
+        </attvalues>
+      </node>
+      <node id="MC_diarrhea" label="MC_diarrhea">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="3467" />
+        </attvalues>
+      </node>
+      <node id="MD_antibodies" label="MD_antibodies">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="303670" />
+        </attvalues>
+      </node>
+      <node id="MC_avian influenza" label="MC_avian influenza">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="2187" />
+        </attvalues>
+      </node>
+      <node id="PA_virus" label="PA_virus">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="596632" />
+        </attvalues>
+      </node>
+      <node id="PA_pcr" label="PA_pcr">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="161822" />
+        </attvalues>
+      </node>
+      <node id="MD_immunoglobulin" label="MD_immunoglobulin">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="193072" />
+        </attvalues>
+      </node>
+      <node id="MC_influenza" label="MC_influenza">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="7666" />
+        </attvalues>
+      </node>
+      <node id="MC_diagnosis" label="MC_diagnosis">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="3519" />
+        </attvalues>
+      </node>
+      <node id="PA_immunodeficiency virus" label="PA_immunodeficiency virus">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="194574" />
+        </attvalues>
+      </node>
+      <node id="MC_respiratory syncytial virus" label="MC_respiratory syncytial virus">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="1758" />
+        </attvalues>
+      </node>
+      <node id="PA_sars-cov" label="PA_sars-cov">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="212208" />
+        </attvalues>
+      </node>
+      <node id="PA_salmonella" label="PA_salmonella">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="182189" />
+        </attvalues>
+      </node>
+      <node id="PA_coli" label="PA_coli">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="270191" />
+        </attvalues>
+      </node>
+      <node id="MC_severe acute respiratory syndrome" label="MC_severe acute respiratory syndrome">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="5218" />
+        </attvalues>
+      </node>
+      <node id="MC_antibodies" label="MC_antibodies">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="3658" />
+        </attvalues>
+      </node>
+      <node id="MD_chemotherapy" label="MD_chemotherapy">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="173918" />
+        </attvalues>
+      </node>
+      <node id="PA_escherichia coli" label="PA_escherichia coli">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="342245" />
+        </attvalues>
+      </node>
+      <node id="MD_intravenous" label="MD_intravenous">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="178163" />
+        </attvalues>
+      </node>
+      <node id="PA_staphylococcus aureus" label="PA_staphylococcus aureus">
+        <attvalues>
+          <attvalue for="0" value="Pathogen" />
+          <attvalue for="1" value="226896" />
+        </attvalues>
+      </node>
+      <node id="MC_hiv" label="MC_hiv">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="3763" />
+        </attvalues>
+      </node>
+      <node id="MD_vaccine" label="MD_vaccine">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="413175" />
+        </attvalues>
+      </node>
+      <node id="MC_inflammation" label="MC_inflammation">
+        <attvalues>
+          <attvalue for="0" value="MedicalCondition" />
+          <attvalue for="1" value="2660" />
+        </attvalues>
+      </node>
+      <node id="MD_cytokine" label="MD_cytokine">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="217040" />
+        </attvalues>
+      </node>
+      <node id="MD_monoclonal antibodies" label="MD_monoclonal antibodies">
+        <attvalues>
+          <attvalue for="0" value="Medicine" />
+          <attvalue for="1" value="186025" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="MD_sodium" target="MC_influenza" id="0" weight="406" />
+      <edge source="MD_sodium" target="MC_hiv" id="1" weight="289" />
+      <edge source="MD_sodium" target="MC_antibodies" id="2" weight="457" />
+      <edge source="MD_sodium" target="MC_diarrhea" id="3" weight="418" />
+      <edge source="MD_sodium" target="MC_inflammation" id="4" weight="361" />
+      <edge source="MD_sodium" target="MC_diagnosis" id="5" weight="320" />
+      <edge source="MD_sodium" target="MC_severe acute respiratory syndrome" id="6" weight="263" />
+      <edge source="MD_sodium" target="MC_animal models" id="7" weight="247" />
+      <edge source="MD_sodium" target="MC_respiratory syncytial virus" id="8" weight="1" />
+      <edge source="MD_corticosteroids" target="MC_inflammation" id="9" weight="347" />
+      <edge source="MD_corticosteroids" target="MC_diagnosis" id="10" weight="401" />
+      <edge source="MD_corticosteroids" target="MC_influenza" id="11" weight="339" />
+      <edge source="MD_corticosteroids" target="MC_diarrhea" id="12" weight="277" />
+      <edge source="MD_corticosteroids" target="MC_severe acute respiratory syndrome" id="13" weight="156" />
+      <edge source="MD_corticosteroids" target="MC_animal models" id="14" weight="140" />
+      <edge source="MD_corticosteroids" target="MC_antibodies" id="15" weight="105" />
+      <edge source="MD_corticosteroids" target="MC_hiv" id="16" weight="92" />
+      <edge source="MD_corticosteroids" target="MC_respiratory syncytial virus" id="17" weight="1" />
+      <edge source="MD_acids" target="MC_antibodies" id="18" weight="533" />
+      <edge source="MD_acids" target="MC_diarrhea" id="19" weight="374" />
+      <edge source="MD_acids" target="MC_diagnosis" id="20" weight="328" />
+      <edge source="MD_acids" target="MC_influenza" id="21" weight="649" />
+      <edge source="MD_acids" target="MC_hiv" id="22" weight="482" />
+      <edge source="MD_acids" target="MC_inflammation" id="23" weight="412" />
+      <edge source="MD_acids" target="MC_animal models" id="24" weight="308" />
+      <edge source="MD_acids" target="MC_severe acute respiratory syndrome" id="25" weight="312" />
+      <edge source="MD_acids" target="MC_avian influenza" id="26" weight="27" />
+      <edge source="MD_acids" target="MC_respiratory syncytial virus" id="27" weight="2" />
+      <edge source="MC_animal models" target="MD_antibodies" id="28" weight="615" />
+      <edge source="MC_animal models" target="PA_coli" id="29" weight="273" />
+      <edge source="MC_animal models" target="MD_cytokine" id="30" weight="550" />
+      <edge source="MC_animal models" target="PA_virus" id="31" weight="1079" />
+      <edge source="MC_animal models" target="PA_coronavirus" id="32" weight="596" />
+      <edge source="MC_animal models" target="PA_staphylococcus aureus" id="33" weight="245" />
+      <edge source="MC_animal models" target="PA_escherichia coli" id="34" weight="368" />
+      <edge source="MC_animal models" target="MD_vaccine" id="35" weight="890" />
+      <edge source="MC_animal models" target="PA_immunodeficiency virus" id="36" weight="325" />
+      <edge source="MC_animal models" target="MD_monoclonal antibodies" id="37" weight="414" />
+      <edge source="MC_animal models" target="PA_sars-cov" id="38" weight="532" />
+      <edge source="MC_animal models" target="MD_immunoglobulin" id="39" weight="262" />
+      <edge source="MC_animal models" target="MD_chemotherapy" id="40" weight="197" />
+      <edge source="MC_animal models" target="MD_intravenous" id="41" weight="208" />
+      <edge source="MC_animal models" target="PA_streptococcus" id="42" weight="2" />
+      <edge source="PA_streptococcus" target="MC_respiratory syncytial virus" id="43" weight="215" />
+      <edge source="PA_streptococcus" target="MC_inflammation" id="44" weight="308" />
+      <edge source="PA_streptococcus" target="MC_influenza" id="45" weight="503" />
+      <edge source="PA_streptococcus" target="MC_diarrhea" id="46" weight="319" />
+      <edge source="PA_streptococcus" target="MC_hiv" id="47" weight="268" />
+      <edge source="PA_streptococcus" target="MC_diagnosis" id="48" weight="403" />
+      <edge source="PA_streptococcus" target="MC_antibodies" id="49" weight="166" />
+      <edge source="PA_streptococcus" target="MC_severe acute respiratory syndrome" id="50" weight="67" />
+      <edge source="PA_coronavirus" target="MC_respiratory syncytial virus" id="51" weight="865" />
+      <edge source="PA_coronavirus" target="MC_antibodies" id="52" weight="983" />
+      <edge source="PA_coronavirus" target="MC_diarrhea" id="53" weight="1263" />
+      <edge source="PA_coronavirus" target="MC_diagnosis" id="54" weight="1117" />
+      <edge source="PA_coronavirus" target="MC_influenza" id="55" weight="2162" />
+      <edge source="PA_coronavirus" target="MC_hiv" id="56" weight="787" />
+      <edge source="PA_coronavirus" target="MC_inflammation" id="57" weight="720" />
+      <edge source="PA_coronavirus" target="MC_avian influenza" id="58" weight="392" />
+      <edge source="PA_coronavirus" target="MC_severe acute respiratory syndrome" id="59" weight="1116" />
+      <edge source="MC_diarrhea" target="PA_staphylococcus aureus" id="60" weight="404" />
+      <edge source="MC_diarrhea" target="PA_salmonella" id="61" weight="615" />
+      <edge source="MC_diarrhea" target="MD_monoclonal antibodies" id="62" weight="345" />
+      <edge source="MC_diarrhea" target="PA_virus" id="63" weight="1227" />
+      <edge source="MC_diarrhea" target="PA_sars-cov" id="64" weight="487" />
+      <edge source="MC_diarrhea" target="MD_vaccine" id="65" weight="1024" />
+      <edge source="MC_diarrhea" target="PA_coli" id="66" weight="631" />
+      <edge source="MC_diarrhea" target="PA_escherichia coli" id="67" weight="912" />
+      <edge source="MC_diarrhea" target="MD_antibodies" id="68" weight="559" />
+      <edge source="MC_diarrhea" target="MD_immunoglobulin" id="69" weight="362" />
+      <edge source="MC_diarrhea" target="MD_chemotherapy" id="70" weight="282" />
+      <edge source="MC_diarrhea" target="MD_cytokine" id="71" weight="264" />
+      <edge source="MC_diarrhea" target="PA_pcr" id="72" weight="297" />
+      <edge source="MC_diarrhea" target="PA_immunodeficiency virus" id="73" weight="330" />
+      <edge source="MC_diarrhea" target="MD_intravenous" id="74" weight="283" />
+      <edge source="MD_antibodies" target="MC_diagnosis" id="75" weight="538" />
+      <edge source="MD_antibodies" target="MC_inflammation" id="76" weight="535" />
+      <edge source="MD_antibodies" target="MC_hiv" id="77" weight="724" />
+      <edge source="MD_antibodies" target="MC_antibodies" id="78" weight="1698" />
+      <edge source="MD_antibodies" target="MC_influenza" id="79" weight="985" />
+      <edge source="MD_antibodies" target="MC_severe acute respiratory syndrome" id="80" weight="470" />
+      <edge source="MD_antibodies" target="MC_avian influenza" id="81" weight="254" />
+      <edge source="MD_antibodies" target="MC_respiratory syncytial virus" id="82" weight="70" />
+      <edge source="MC_avian influenza" target="MD_vaccine" id="83" weight="752" />
+      <edge source="MC_avian influenza" target="PA_coli" id="84" weight="170" />
+      <edge source="MC_avian influenza" target="PA_virus" id="85" weight="857" />
+      <edge source="MC_avian influenza" target="PA_staphylococcus aureus" id="86" weight="202" />
+      <edge source="MC_avian influenza" target="PA_escherichia coli" id="87" weight="268" />
+      <edge source="MC_avian influenza" target="PA_immunodeficiency virus" id="88" weight="237" />
+      <edge source="MC_avian influenza" target="PA_sars-cov" id="89" weight="360" />
+      <edge source="MC_avian influenza" target="MD_cytokine" id="90" weight="176" />
+      <edge source="MC_avian influenza" target="MD_monoclonal antibodies" id="91" weight="79" />
+      <edge source="MC_avian influenza" target="MD_chemotherapy" id="92" weight="1" />
+      <edge source="MC_avian influenza" target="PA_pcr" id="93" weight="1" />
+      <edge source="MC_avian influenza" target="MD_immunoglobulin" id="94" weight="1" />
+      <edge source="PA_virus" target="MC_influenza" id="95" weight="3372" />
+      <edge source="PA_virus" target="MC_hiv" id="96" weight="1635" />
+      <edge source="PA_virus" target="MC_respiratory syncytial virus" id="97" weight="816" />
+      <edge source="PA_virus" target="MC_antibodies" id="98" weight="1890" />
+      <edge source="PA_virus" target="MC_inflammation" id="99" weight="971" />
+      <edge source="PA_virus" target="MC_diagnosis" id="100" weight="1064" />
+      <edge source="PA_virus" target="MC_severe acute respiratory syndrome" id="101" weight="1326" />
+      <edge source="PA_pcr" target="MC_antibodies" id="102" weight="324" />
+      <edge source="PA_pcr" target="MC_diagnosis" id="103" weight="454" />
+      <edge source="PA_pcr" target="MC_influenza" id="104" weight="545" />
+      <edge source="PA_pcr" target="MC_hiv" id="105" weight="212" />
+      <edge source="PA_pcr" target="MC_respiratory syncytial virus" id="106" weight="183" />
+      <edge source="PA_pcr" target="MC_severe acute respiratory syndrome" id="107" weight="179" />
+      <edge source="PA_pcr" target="MC_inflammation" id="108" weight="150" />
+      <edge source="MD_immunoglobulin" target="MC_influenza" id="109" weight="429" />
+      <edge source="MD_immunoglobulin" target="MC_hiv" id="110" weight="341" />
+      <edge source="MD_immunoglobulin" target="MC_diagnosis" id="111" weight="378" />
+      <edge source="MD_immunoglobulin" target="MC_inflammation" id="112" weight="345" />
+      <edge source="MD_immunoglobulin" target="MC_antibodies" id="113" weight="572" />
+      <edge source="MD_immunoglobulin" target="MC_severe acute respiratory syndrome" id="114" weight="195" />
+      <edge source="MD_immunoglobulin" target="MC_respiratory syncytial virus" id="115" weight="2" />
+      <edge source="MC_influenza" target="MD_cytokine" id="116" weight="800" />
+      <edge source="MC_influenza" target="MD_monoclonal antibodies" id="117" weight="623" />
+      <edge source="MC_influenza" target="PA_sars-cov" id="118" weight="1168" />
+      <edge source="MC_influenza" target="MD_vaccine" id="119" weight="2180" />
+      <edge source="MC_influenza" target="PA_salmonella" id="120" weight="361" />
+      <edge source="MC_influenza" target="PA_coli" id="121" weight="508" />
+      <edge source="MC_influenza" target="PA_staphylococcus aureus" id="122" weight="820" />
+      <edge source="MC_influenza" target="PA_escherichia coli" id="123" weight="838" />
+      <edge source="MC_influenza" target="PA_immunodeficiency virus" id="124" weight="866" />
+      <edge source="MC_influenza" target="MD_chemotherapy" id="125" weight="394" />
+      <edge source="MC_influenza" target="MD_intravenous" id="126" weight="359" />
+      <edge source="MC_diagnosis" target="MD_monoclonal antibodies" id="127" weight="362" />
+      <edge source="MC_diagnosis" target="PA_sars-cov" id="128" weight="360" />
+      <edge source="MC_diagnosis" target="MD_vaccine" id="129" weight="847" />
+      <edge source="MC_diagnosis" target="PA_salmonella" id="130" weight="395" />
+      <edge source="MC_diagnosis" target="PA_coli" id="131" weight="445" />
+      <edge source="MC_diagnosis" target="MD_chemotherapy" id="132" weight="435" />
+      <edge source="MC_diagnosis" target="PA_staphylococcus aureus" id="133" weight="541" />
+      <edge source="MC_diagnosis" target="PA_immunodeficiency virus" id="134" weight="412" />
+      <edge source="MC_diagnosis" target="PA_escherichia coli" id="135" weight="671" />
+      <edge source="MC_diagnosis" target="MD_intravenous" id="136" weight="362" />
+      <edge source="MC_diagnosis" target="MD_cytokine" id="137" weight="249" />
+      <edge source="PA_immunodeficiency virus" target="MC_hiv" id="138" weight="1406" />
+      <edge source="PA_immunodeficiency virus" target="MC_inflammation" id="139" weight="323" />
+      <edge source="PA_immunodeficiency virus" target="MC_antibodies" id="140" weight="462" />
+      <edge source="PA_immunodeficiency virus" target="MC_severe acute respiratory syndrome" id="141" weight="567" />
+      <edge source="PA_immunodeficiency virus" target="MC_respiratory syncytial virus" id="142" weight="223" />
+      <edge source="MC_respiratory syncytial virus" target="PA_escherichia coli" id="143" weight="200" />
+      <edge source="MC_respiratory syncytial virus" target="PA_staphylococcus aureus" id="144" weight="327" />
+      <edge source="MC_respiratory syncytial virus" target="MD_vaccine" id="145" weight="459" />
+      <edge source="MC_respiratory syncytial virus" target="PA_sars-cov" id="146" weight="237" />
+      <edge source="MC_respiratory syncytial virus" target="MD_monoclonal antibodies" id="147" weight="115" />
+      <edge source="MC_respiratory syncytial virus" target="MD_cytokine" id="148" weight="153" />
+      <edge source="MC_respiratory syncytial virus" target="MD_chemotherapy" id="149" weight="86" />
+      <edge source="MC_respiratory syncytial virus" target="PA_coli" id="150" weight="1" />
+      <edge source="MC_respiratory syncytial virus" target="PA_salmonella" id="151" weight="2" />
+      <edge source="MC_respiratory syncytial virus" target="MD_intravenous" id="152" weight="1" />
+      <edge source="PA_sars-cov" target="MC_antibodies" id="153" weight="785" />
+      <edge source="PA_sars-cov" target="MC_hiv" id="154" weight="738" />
+      <edge source="PA_sars-cov" target="MC_severe acute respiratory syndrome" id="155" weight="1100" />
+      <edge source="PA_sars-cov" target="MC_inflammation" id="156" weight="339" />
+      <edge source="PA_salmonella" target="MC_hiv" id="157" weight="261" />
+      <edge source="PA_salmonella" target="MC_inflammation" id="158" weight="261" />
+      <edge source="PA_salmonella" target="MC_antibodies" id="159" weight="251" />
+      <edge source="PA_salmonella" target="MC_severe acute respiratory syndrome" id="160" weight="167" />
+      <edge source="PA_coli" target="MC_severe acute respiratory syndrome" id="161" weight="300" />
+      <edge source="PA_coli" target="MC_antibodies" id="162" weight="557" />
+      <edge source="PA_coli" target="MC_inflammation" id="163" weight="359" />
+      <edge source="PA_coli" target="MC_hiv" id="164" weight="436" />
+      <edge source="MC_severe acute respiratory syndrome" target="MD_vaccine" id="165" weight="1078" />
+      <edge source="MC_severe acute respiratory syndrome" target="PA_escherichia coli" id="166" weight="551" />
+      <edge source="MC_severe acute respiratory syndrome" target="PA_staphylococcus aureus" id="167" weight="438" />
+      <edge source="MC_severe acute respiratory syndrome" target="MD_cytokine" id="168" weight="354" />
+      <edge source="MC_severe acute respiratory syndrome" target="MD_intravenous" id="169" weight="198" />
+      <edge source="MC_severe acute respiratory syndrome" target="MD_chemotherapy" id="170" weight="192" />
+      <edge source="MC_severe acute respiratory syndrome" target="MD_monoclonal antibodies" id="171" weight="231" />
+      <edge source="MC_antibodies" target="MD_cytokine" id="172" weight="552" />
+      <edge source="MC_antibodies" target="PA_escherichia coli" id="173" weight="680" />
+      <edge source="MC_antibodies" target="MD_monoclonal antibodies" id="174" weight="960" />
+      <edge source="MC_antibodies" target="MD_vaccine" id="175" weight="1458" />
+      <edge source="MC_antibodies" target="PA_staphylococcus aureus" id="176" weight="293" />
+      <edge source="MC_antibodies" target="MD_chemotherapy" id="177" weight="236" />
+      <edge source="MC_antibodies" target="MD_intravenous" id="178" weight="267" />
+      <edge source="MD_chemotherapy" target="MC_inflammation" id="179" weight="293" />
+      <edge source="MD_chemotherapy" target="MC_hiv" id="180" weight="326" />
+      <edge source="PA_escherichia coli" target="MC_inflammation" id="181" weight="514" />
+      <edge source="PA_escherichia coli" target="MC_hiv" id="182" weight="609" />
+      <edge source="MD_intravenous" target="MC_inflammation" id="183" weight="315" />
+      <edge source="MD_intravenous" target="MC_hiv" id="184" weight="228" />
+      <edge source="PA_staphylococcus aureus" target="MC_hiv" id="185" weight="495" />
+      <edge source="PA_staphylococcus aureus" target="MC_inflammation" id="186" weight="377" />
+      <edge source="MC_hiv" target="MD_vaccine" id="187" weight="1168" />
+      <edge source="MC_hiv" target="MD_cytokine" id="188" weight="486" />
+      <edge source="MC_hiv" target="MD_monoclonal antibodies" id="189" weight="436" />
+      <edge source="MD_vaccine" target="MC_inflammation" id="190" weight="532" />
+      <edge source="MC_inflammation" target="MD_cytokine" id="191" weight="807" />
+      <edge source="MC_inflammation" target="MD_monoclonal antibodies" id="192" weight="277" />
+    </edges>
+  </graph>
+</gexf>
